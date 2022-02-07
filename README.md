@@ -22,6 +22,11 @@ After Installation:
 - Clone my project into a local folder
 - browse to the main directory (super-api-tests)
 
+Run 
+```
+npm install && update
+```
+
 ## TO RUN TESTS in Series:
 Run
 ```

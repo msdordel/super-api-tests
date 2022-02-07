@@ -1,7 +1,9 @@
 # Welome to my Super API Tests
 
 #### This project was written in JavaScript and uses the libraries listed below, and runs tests against this API endpoint: https://jsonplaceholder.typicode.com/posts/
-This is also the first API test suite I have authored outside of Postman
+This is also the first API test suite I have authored outside of Postman.
+
+and I must say, if I was a more seasoned developer, I would have written something like this: https://github.com/choudharydk/rest_api_automation
 
 ## To Start:
 
